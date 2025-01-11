@@ -185,7 +185,6 @@ For any questions or feedback, please reach out:
 
 - **Email:** aviral.ceo.123@gmail.com
 - **GitHub:** [avgvcoding](https://github.com/avgvcoding)
-- **LinkedIn:** [Aviral](www.linkedin.com/in/aviral-gupta-781813258)
 
 ---
 
