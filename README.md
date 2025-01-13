@@ -248,7 +248,7 @@ flutter run
 
 Check out the [demo video](#) showcasing the **Safezy_App** in action! (Replace `#` with the actual link to your video once available.)
 
-![Demo Video](path_to_demo_video_thumbnail.jpg)  
+![Demo Video]((https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4))  
 *Click the image above to watch the demo video.*
 
 ## Contributing
