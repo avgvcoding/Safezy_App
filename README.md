@@ -23,9 +23,8 @@
 
 Check out the [demo video](https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4) showcasing the **Safezy_App** in action! (Replace `#` with the actual link to your video once available.)
 
-![Demo Video](https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4) 
+https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4 
 https://github.com/user-attachments/assets/3e71c63c-2ceb-494c-900b-e75d3ddbed37
-*Click the image above to watch the demo video.*
 
 ## Introduction
 
