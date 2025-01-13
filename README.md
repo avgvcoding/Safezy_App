@@ -21,7 +21,7 @@
 
 ## Demo Video
 
-Check out the [demo video](https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4) showcasing the **Safezy_App** in action! (Replace `#` with the actual link to your video once available.)
+Check out the [demo video](https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4) showcasing the **Safezy_App** in action!
 
 https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4 
 
