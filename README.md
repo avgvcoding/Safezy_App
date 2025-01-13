@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Demo Video](#demo-video)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Folder Structure](#folder-structure)
@@ -14,10 +15,17 @@
 - [Machine Learning Model Training](#machine-learning-model-training)
 - [Deployment](#deployment)
 - [Flutter Integration](#flutter-integration)
-- [Demo Video](#demo-video)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
+## Demo Video
+
+Check out the [demo video](https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4) showcasing the **Safezy_App** in action! (Replace `#` with the actual link to your video once available.)
+
+![Demo Video](https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4) 
+https://github.com/user-attachments/assets/3e71c63c-2ceb-494c-900b-e75d3ddbed37
+*Click the image above to watch the demo video.*
 
 ## Introduction
 
@@ -243,13 +251,6 @@ Ensure you have Flutter installed and set up on your machine. Then, run:
 ```bash
 flutter run
 ```
-
-## Demo Video
-
-Check out the [demo video](#) showcasing the **Safezy_App** in action! (Replace `#` with the actual link to your video once available.)
-
-![Demo Video](https://github.com/avgvcoding/Safezy_App/blob/main/video_20250114_041830_edit.mp4)  
-*Click the image above to watch the demo video.*
 
 ## Contributing
 
