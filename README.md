@@ -1,4 +1,3 @@
-```markdown
 # Safezy_App
 
 **Safezy_App** is a comprehensive application designed to predict disasters from user-uploaded images. It seamlessly integrates a Flask-based backend API with a Flutter mobile application, providing users with real-time disaster predictions. The machine learning model is trained using the FastAI library, achieving an impressive 95.2% accuracy.
